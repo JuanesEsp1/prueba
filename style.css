@@ -14,6 +14,12 @@
     justify-content: start;
     align-items: center;
     font-weight: 600;
+    gap: 30px;
+    
+}
+
+.spanTitle{
+    font-size: 40px;
 }
 
 .main{
